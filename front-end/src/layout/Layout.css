@@ -1,4 +1,20 @@
 .side-bar {
-  background-color: #393a44;
+  background-color: #012a4a;
   min-width: 200px;
+}
+
+h1 {
+  color: #013a63;
+}
+
+h4 {
+  color: #468faf;
+}
+
+label {
+  color: #014f86;
+}
+
+small {
+  color: #468faf;
 }
